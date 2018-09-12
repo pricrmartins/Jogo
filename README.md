@@ -1,1 +1,1 @@
-# Jogo implementado durante a aula de fundamentos de jogos 
+#FUNDAMENTOS PARA O DESENVOLVIMENTO DE JOGOS EM 2D
